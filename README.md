@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emilyxietty
-- 🌱 I’m currently learning ARM, Java, Python, C, HTML5/CSS3 + Javascript
+- 🌱 I’m currently learning ARM, Java, Python, C, HTML5/CSS3 + Javascript, SQL
 - 📫 exie5@uwo.ca
 - 👀 I love discovering new musical instruments! 🎷🎹🎸 
