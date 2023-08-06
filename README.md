@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @emilyxietty
-- 🌱 I’m currently learning ARM, Java, Python, C, HTML5/CSS3 + Javascript, SQL
-- 📫 exie5@uwo.ca
+- 🌱 I’m currently learning ML
+- 🖥️ ghiblify - new tab chrome extension currently out
+- 📫 emily.xietty@gmail.com
 - 👀 I love discovering new musical instruments! 🎷🎹🎸 
