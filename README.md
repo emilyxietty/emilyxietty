@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @emilyxietty
+- 💃 Currently working @ Tiktok
 - 🖥️ ghiblify - new tab chrome extension currently out
 - 📫 emily.xietty@gmail.com
 - 👀 I love discovering new musical instruments! 🎷🎹🎸 
