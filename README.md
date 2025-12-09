@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilyxietty
-- 💃 Currently working @ Tiktok
+- 💃 Canadian who's currently working @ Tiktok in Seattle
 - 🖥️ ghiblify - new tab chrome extension currently out
 - 📫 emily.xietty@gmail.com
 - 👀 I love discovering new musical instruments! 🎷🎹🎸 
