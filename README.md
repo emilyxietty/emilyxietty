@@ -5,9 +5,21 @@
 </p>
 
 - 💃 Canadian who's currently working @ Tiktok in Seattle
-- 🖥️ ghiblify - new tab chrome extension currently out
+- 🖥️ [ghiblify](https://chromewebstore.google.com/detail/ghiblify/kdaipjfpbngmcginhhahacjkkkpbaefh) - new tab chrome extension currently out
 - 📫 emily.xietty@gmail.com
 - 🤫 I swear I code a lot, not all of it ends up on Github
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/ghiblify/kdaipjfpbngmcginhhahacjkkkpbaefh">
+    <img src="https://img.shields.io/badge/ghiblify-Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ghiblify on the Chrome Web Store" />
+  </a>
+  <a href="https://chromewebstore.google.com/detail/ghiblify/kdaipjfpbngmcginhhahacjkkkpbaefh">
+    <img src="https://img.shields.io/chrome-web-store/users/kdaipjfpbngmcginhhahacjkkkpbaefh?style=for-the-badge&color=34A853&label=users" alt="ghiblify users" />
+  </a>
+  <a href="https://chromewebstore.google.com/detail/ghiblify/kdaipjfpbngmcginhhahacjkkkpbaefh">
+    <img src="https://img.shields.io/chrome-web-store/rating/kdaipjfpbngmcginhhahacjkkkpbaefh?style=for-the-badge&color=FBBC05&label=rating" alt="ghiblify rating" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilyxietty/emilyxietty/output/github-snake-dark.svg" />
