@@ -7,7 +7,6 @@
 - 💃 Canadian who's currently working @ Tiktok in Seattle
 - 🖥️ ghiblify - new tab chrome extension currently out
 - 📫 emily.xietty@gmail.com
-- 👀 I love discovering new musical instruments! 🎷🎹🎸
 - 🤫 I swear I code a lot, not all of it ends up on Github
 
 <picture>
