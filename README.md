@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=hi%2C+I'm+Emily;SWE+%40+TikTok+in+Seattle;made+ghiblify%2C+a+chrome+extension;always+learning+a+new+instrument" alt="typing intro" /></a>
+</p>
+
 - 👋 Hi, I’m @emilyxietty
 - 💃 Canadian who's currently working @ Tiktok in Seattle
 - 🖥️ ghiblify - new tab chrome extension currently out
